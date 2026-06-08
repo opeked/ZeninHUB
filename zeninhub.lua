@@ -1,11 +1,3 @@
---[[
-    ╔════════════════════════════════════════════════════════════╗
-    ║                    ZENIN HUB v1.3                          ║
-    ║         Bizarre Lineage | Mais funções implementadas       ║
-    ║   Auto Parry • Auto Stats • No Stun • Auto Sell • Stamina  ║
-    ╚════════════════════════════════════════════════════════════╝
-]]
-
 local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
 
 local Window = OrionLib:MakeWindow({
